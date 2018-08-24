@@ -1,0 +1,18 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.main {
+    height: 1000;
+    width: 100%;
+    text-align: center;
+    margin-top: 800px;
+    
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+}
+
